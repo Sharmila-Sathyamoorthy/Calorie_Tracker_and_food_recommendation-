@@ -1,4 +1,4 @@
-# dummy
+# Calorie Tracker and food recommendations 
 
 A new Flutter project.
 
